@@ -93,7 +93,7 @@
                 <div class="sm-col-2"></div>
             </div>
         </div>
-        <h6 id="copyright">&copy;Studio Rin 2019</h6>
+        <h6 id="copyright">&copy; Studio Rin 2019</h6>
     </main>
     
 </body>
