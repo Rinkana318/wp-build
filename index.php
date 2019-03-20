@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Project Name</h1>
+                    <h3>Project Name</h3>
                 </div>
                 <div class="col-sm-6">
                     <nav class="navbar">
@@ -30,7 +30,7 @@
     <main>
         <div class="container sign-up">
             <div class="jumbotron">
-                <h1>JUMBOTRON HEADER</h1>
+                <h1 class="display-4">JUMBOTRON HEADER</h1>
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
                 sed diam nonummy nibh euismod tincidunt ut laoreet dolore
                 magna aliquam erat volutpat. Ut wisi enim ad minim veniam,
@@ -53,48 +53,48 @@
         
         <div class="container subheaders">
             <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-4">
+
+                <div class="col-lg-6">
                     <h3>Subheading</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum unde reprehenderit, odio.</p>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-lg-6">
                     <h3>Subheading</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum harum, eos repudiandae!</p>
                 </div>
-                <div class="sm-col-2"></div>
+
             </div>
         </div>
         <div class="container subheaders">
             <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-4">
+                <div class="col-lg-6">
                     <h3>Subheading</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa quasi praesentium assumenda.</p>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-lg-6">
                     <h3>Subheading</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa quasi praesentium assumenda.</p>
                 </div>
-                <div class="sm-col-2"></div>
             </div>
         </div>
         <div class="container subheaders">
             <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-4">
+                <div class="col-lg-6">
                     <h3>Subheading</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa quasi praesentium assumenda.</p>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-lg-6">
                     <h3>Subheading</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa quasi praesentium assumenda.</p>
                 </div>
-                <div class="sm-col-2"></div>
             </div>
         </div>
-        <h6 id="copyright">&copy; Studio Rin 2019</h6>
+        <hr>
     </main>
-    
+    <footer>
+        <div class="container copy">
+            <h6 id="copyright">&copy; Studio Rin 2019</h6>
+        </div>
+    </footer>
 </body>
 </html>
