@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
+    <div class="container">
     <header>
         <div class="container">
             <div class="row">
@@ -50,10 +51,8 @@
                 <a href="#" class="btn btn-success btn-lg">Sign up Today!</a>
             </div>
         </div>
-        
         <div class="container subheaders">
             <div class="row">
-
                 <div class="col-lg-6">
                     <h3>Subheading</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum unde reprehenderit, odio.</p>
@@ -62,7 +61,6 @@
                     <h3>Subheading</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum harum, eos repudiandae!</p>
                 </div>
-
             </div>
         </div>
         <div class="container subheaders">
@@ -96,5 +94,6 @@
             <h6 id="copyright">&copy; Studio Rin 2019</h6>
         </div>
     </footer>
+    </div>
 </body>
 </html>
