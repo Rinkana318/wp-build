@@ -29,7 +29,7 @@
 		<div class="container">
 
 			<!-- header -->
-			<header class="header clear" role="banner">
+			<div class="header clearfix" >
 
 					<!-- logo -->
 					<div class="logo">
@@ -41,10 +41,10 @@
 					<!-- /logo -->
 
 					<!-- nav -->
-					<nav class="nav" role="navigation">
+					<nav>
 						<?php html5blank_nav(); ?>
 					</nav>
 					<!-- /nav -->
-
-			</header>
+					<h1><?php the_title(); ?></h1>
+			</div>
 			<!-- /header -->
