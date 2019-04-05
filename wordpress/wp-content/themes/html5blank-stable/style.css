@@ -2,6 +2,7 @@
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+  background-image:url("https://tave.com/wp-content/uploads/2016/06/786760149819-blue-cool-backgrounds-patterns-wallpapers-pattern.jpg");
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -76,4 +77,9 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+  .container{
+    border-radius: 10px;
+    background-color:#ffffff;
+  }
+  
 }
